@@ -1,3 +1,5 @@
+![alt text](https://github.com/Kevin-Phon/Kevin-Phon/blob/main/op.jpg)
+
 <h1 align="center">Hi 👋, I'm Kevin Phon</h1>
 <h3 align="center">Gamer</h3>
 
