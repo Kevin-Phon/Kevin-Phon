@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Phon</h1>
 <h3 align="center">Gamer</h3>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Programming**
 
 - 💬 Ask me about **Games**
 
