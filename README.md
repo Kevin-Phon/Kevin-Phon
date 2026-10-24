@@ -1,19 +1,44 @@
-![alt text](https://github.com/Kevin-Phon/Kevin-Phon/blob/main/op.jpg)
+# Hi, I'm Kevin Phon 👋
 
-<h1 align="center">Hi 👋, I'm Kevin Phon</h1>
-<h3 align="center">Gamer</h3>
+**Computer Science student at Cal Poly Pomona**
 
-- 🌱 I’m currently learning **Programming**
+Interested in software engineering, artificial intelligence, and building useful applications.
 
-- 💬 Ask me about **Games**
+[Portfolio](https://Kevin-Phon.github.io/portfolio/) · [Portfolio Repository](https://github.com/Kevin-Phon/portfolio) · [Email](mailto:kyawkevinphon@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Phon&show_icons=true&theme=tokyonight)
+## About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kevinphon.phon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevinphon.phon" height="30" width="40" /></a>
-</p>
+I'm studying Computer Science at Cal Poly Pomona after transferring from East Los Angeles College. I'm building practical experience through coursework, student teams, and hackathons, and I enjoy learning how to turn ideas into working applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm interested in software engineering and AI, with a growing interest in machine learning, computer vision, and AI agents. I'm looking for internship opportunities where I can contribute, learn from others, and grow as a developer.
 
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Programming languages | Python, Java, JavaScript |
+| Web foundations | HTML, CSS |
+| Tools and workflow | Git, GitHub, VS Code |
+| Project experience | Flask, Pydantic, AI API integration |
+
+**Currently learning:** data structures and algorithms, object-oriented design, machine learning and data science, computer vision, and software design.
+
+## What I'm working on
+
+- **GAZE:** exploring gaze-based interaction and hand-gesture recognition through a student team project.
+- **VYUH:** contributing to a student software project, with work focused on teacher roster features.
+- **CSS Data Science & Machine Learning:** gaining hands-on experience with data preparation and feature engineering in a collaborative project.
+
+Visit my [portfolio](https://Kevin-Phon.github.io/portfolio/) for project showcases, source links, and more about my work.
+
+## Hackathon highlight
+
+**Travel and Exploration Track winner — CPP Bronco MiniHacks 2026**
+
+My four-person team built **SideQuest**, an AI-powered local exploration app. My main contribution was AI and backend integration, including structured response validation and fallback quest generation.
+
+[Explore SideQuest](https://github.com/Kevin-Phon/bronco-minihacks-2026)
+
+## Beyond code
+
+I enjoy gaming and anime. Always happy to talk about games, new ideas, and what we're learning.
